@@ -1,6 +1,6 @@
 ### Olá ! Prazer, sou o Erick Gonçalves 👋😁
 
-- 🔭 Eu estou trabalhando em projetos pessoais ...
+- 🔭 Eu estou trabalhando em projetos pessoais 
 - 🌱 Estou aprendendo Java, HTML, CSS e JavaScript
 - 📫 Você pode entrar em contato através do meu email erickbregon@gmail.com
 - 😄 Pronomes ele/dele
@@ -19,4 +19,4 @@
   <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />            
 </div>
    
-  ![Snake animation](https://github.com/Saimonexk/Saimonexk/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Saimonexk/Saimonexk/blob/output/github-contribution-grid-snake.svg)
