@@ -16,8 +16,7 @@
     <img align="center" alt="Erick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="center" alt="Erick-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-               ![Snake animation](https://github.com/Saimonexk/Saimonexk/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />            
 </div>
-  
+   
+  ![Snake animation](https://github.com/Saimonexk/Saimonexk/blob/output/github-contribution-grid-snake.svg)
