@@ -1,9 +1,11 @@
 ### Olá ! Prazer, sou o Erick Gonçalves 👋😁
-
-- 🔭 Eu estou trabalhando em projetos pessoais 
-- 🌱 Estou aprendendo Java, HTML, CSS e JavaScript
-- 📫 Você pode entrar em contato através do meu email erickbregon@gmail.com
-- 😄 Pronomes ele/dele
+- 🎈 Tenho 18 anos de idade e estou animado com a possibilidade de fazer o seu negócio disparar
+- 🔭No momento estou trabalhando em projetos pessoais, além de trabalhar com a empresa AMG 
+- 🌱Sou altamente capacitado com experiência em criação de soluções digitais inovadoras 
+- 👨‍💻Possuo habilidades sólidas em HTML, CSS, JavaScript, além de experiência com desenvolvimento back-end com linguagens como PHP e Python 
+- 🤔Eu sempre obtive bons resultados trabalhando sozinho, entretanto estou disposto em formar uma equipe 
+- 📖Busco constantemente aprimorar minhas habilidades com estudos por cursos, faculdades e criadores de conteúdo pela internet, desse modo eu posso oferecer soluções eficazes e superar desafios que você está enfrentando
+- 😄 Ficarei satisfeito em trabalhar para você assim que eu terminar meus projetos, com toda a certeza você ficará impressionado com o que eu sou capaz de fazer
 
 <div align="center">
   <a href="https://github.com/Saimonexk">
