@@ -1,5 +1,5 @@
 ### Olá ! Prazer, sou o Erick Gonçalves 👋😁
-- 🎈 Tenho 19 anos de idade e estou animado com a possibilidade de fazer o seu negócio disparar
+- 🎈 Tenho 21 anos de idade e estou animado com a possibilidade de fazer o seu negócio disparar
 - 🔭No momento estou trabalhando em projetos pessoais, além de trabalhar com a empresa AMG 
 - 🌱Sou altamente capacitado com experiência em criação de soluções digitais inovadoras 
 - 👨‍💻Possuo habilidades sólidas em HTML, CSS, JavaScript, além de experiência com desenvolvimento back-end com linguagens como PHP e Python 
